@@ -1,4 +1,4 @@
-# 375-deathmlmodels
+# 301-deathmlmodels
 Analyzing leading causes of death in NYC using machine learning and regression models to uncover patterns across demographic groups.
 
 This project analyzes the leading causes of death in New York City using public health data. By applying data preprocessing, visualization, and multiple regression models, the project aims to uncover patterns and demographic correlations (e.g., by ethnicity, sex, and year) to predict death rates from causes such as Alzheimer's and heart disease.
